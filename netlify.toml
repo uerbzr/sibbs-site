@@ -1,0 +1,4 @@
+[build]
+  command = "tsc"
+  functions = "netlify/functions"
+  publish = "dist"
